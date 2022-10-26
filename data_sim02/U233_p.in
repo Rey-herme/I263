@@ -1,0 +1,7 @@
+# Experiment:
+projectile p
+element U
+mass 233
+energy U233_p_e.in
+# Output
+fileresidual y

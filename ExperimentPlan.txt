@@ -1,0 +1,8 @@
+First : Beam tuning on mass 219 -> When optimising the beam, give the yeld to the operators of the accelerator
+Once beam is optimised, rotate target
+Take the best of the 2 targets for implantation of long lived isotopes
+vent switchyard + cool down target -> Target change
+Test both targets
+Take the best for decay spectro
+
+rp093233 -> Z=93 A=233
